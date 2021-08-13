@@ -36,7 +36,7 @@ h6{
     height: 300px;
     margin: auto;
     box-shadow: 2px 2px 40px lightgray;
-    border-radius: 10px;
+    border-radius: 25px;
 }
 .bag img{
     padding: 10px;
@@ -51,12 +51,12 @@ h6{
 .beauty{
     padding: 50px 0;
     box-shadow: 2px 2px 40px lightgray;
-    border-radius: 20px;
+    border-radius: 25px;
     margin: 10px 20px 50px 30px;
 }
 .shoe{
     box-shadow: 2px 2px 40px lightgray;
-    border-radius: 20px;
+    border-radius: 25px;
     margin: 20px 20px 0 30px;
     padding-top: 80px;
 }
