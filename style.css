@@ -1,0 +1,68 @@
+p{
+    text-align: justify;
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    padding: 10px 20px;
+}
+.banner-products{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 70px;
+}
+h6{
+    color: orange;
+}
+.card-body h5,.card-body p{
+    text-align: center;
+}
+.card img{
+    width: 80%;
+    margin: auto;
+    padding: 50px 10px 20px 10px;
+}
+.card{
+    border: none;
+    box-shadow: 2px 2px 12px #e6e5e5;
+    margin: 25px 10px;
+    border-radius: 20px;
+}
+.bag{
+    padding: 0;
+    height: 300px;
+    margin: auto;
+    box-shadow: 2px 2px 40px lightgray;
+    border-radius: 10px;
+}
+.bag img{
+    padding: 10px;
+}
+.beauty img{
+    width: 65%;
+    padding-bottom: 8%;
+}
+.shoe img{
+    width: 65%;
+}
+.beauty{
+    padding: 50px 0;
+    box-shadow: 2px 2px 40px lightgray;
+    border-radius: 20px;
+    margin: 10px 20px 50px 30px;
+}
+.shoe{
+    box-shadow: 2px 2px 40px lightgray;
+    border-radius: 20px;
+    margin: 20px 20px 0 30px;
+    padding-top: 80px;
+}
+.shoe h5{
+    padding-bottom: 20px;
+}
+.container{
+    margin-bottom: 20px;
+}
